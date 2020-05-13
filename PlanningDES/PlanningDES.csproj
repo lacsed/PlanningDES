@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A set of interfaces, classes and functions to facilitate the creation of production planning algorithms using UltraDES</Description>
+    <PackageProjectUrl>https://github.com/lacsed/PlanningDES</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Company>LACSED</Company>
+    <Authors>Developers and Researchers at LACSED</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="UltraDES" Version="2.1.3" />
+  </ItemGroup>
+
+</Project>
