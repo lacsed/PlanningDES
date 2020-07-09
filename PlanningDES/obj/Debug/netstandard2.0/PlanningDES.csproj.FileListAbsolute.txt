@@ -1,0 +1,9 @@
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\bin\Debug\netstandard2.0\PlanningDES.deps.json
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\bin\Debug\netstandard2.0\PlanningDES.dll
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\bin\Debug\netstandard2.0\PlanningDES.pdb
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Debug\netstandard2.0\PlanningDES.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Debug\netstandard2.0\PlanningDES.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Debug\netstandard2.0\PlanningDES.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Debug\netstandard2.0\PlanningDES.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Debug\netstandard2.0\PlanningDES.dll
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Debug\netstandard2.0\PlanningDES.pdb

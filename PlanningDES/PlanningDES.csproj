@@ -8,6 +8,11 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Company>LACSED</Company>
     <Authors>Developers and Researchers at LACSED</Authors>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\PlanningDES.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>

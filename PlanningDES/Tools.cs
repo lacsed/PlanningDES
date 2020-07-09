@@ -113,7 +113,12 @@ namespace PlanningDES
             return metric;
         }
 
-        public static uint ActiveTasks(this AbstractState state) => (uint)state.S.Sum(s => s is ExpandedState es ? es.Tasks : 0u);
+        public static uint ActiveTasks(this AbstractState state)
+        {
+            if (state is ExpandedState expandedState) return expandedState.Tasks;
+            if (state is AbstractCompoundState compoundState) return (uint)compoundState.S.Sum(s => s.ActiveTasks());
+            return 0u;
+        }
 
         public static (double time, T result) Timming<T>(this Func<T> f)
         {

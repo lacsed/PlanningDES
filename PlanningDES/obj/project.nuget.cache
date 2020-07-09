@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gemx4MQJE5um13HxjHNc7Sb3JssfaBpE3rKnzob2WQFY6uhHpx485vA20J2PnwcW3PgV7q6sT2nfoIzhSTf/rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\OneDrive\\Documentos\\GitHub\\PlanningDES\\PlanningDES\\PlanningDES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\ultrades\\2.1.3\\ultrades.2.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
