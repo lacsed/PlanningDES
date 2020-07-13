@@ -7,3 +7,4 @@ C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Release\ne
 C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Release\netstandard2.0\PlanningDES.csproj.CoreCompileInputs.cache
 C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Release\netstandard2.0\PlanningDES.dll
 C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Release\netstandard2.0\PlanningDES.pdb
+C:\Users\Lucas\OneDrive\Documentos\GitHub\PlanningDES\PlanningDES\obj\Release\netstandard2.0\PlanningDES.csprojAssemblyReference.cache

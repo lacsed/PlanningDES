@@ -43,7 +43,7 @@ namespace PlanningDES
             }
         }
 
-        public Scheduler Update(AbstractEvent e)
+        public Scheduler Update(AbstractEvent e, float bias = 0f)
         {
             if(!_internal.ContainsKey(e) || float.IsInfinity(_internal[e])) throw new Exception($"Event {e} not allowed!");
             var time = _internal[e];
@@ -53,7 +53,7 @@ namespace PlanningDES
             
             if (!_timeTable.ContainsKey(e)) return new Scheduler(scheduler, _timeTable, _elapsedTime + time);
             
-            foreach (var (end, dt) in _timeTable[e]) scheduler[end] = dt;
+            foreach (var (end, dt) in _timeTable[e]) scheduler[end] = dt + bias;
 
             return new Scheduler(scheduler, _timeTable, _elapsedTime + time);
         
